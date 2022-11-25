@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by Cristiano Sellitto
-# Created in <September> <2022>
+# Created in November 2022
 # A program that calculates fahrenheit from celsius
 
 
